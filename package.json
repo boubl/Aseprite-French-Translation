@@ -1,0 +1,16 @@
+{
+  "name": "language-extension",
+  "displayName": "FR Language",
+  "version": "1.2",
+  "author": { "name": "Chamalow Moelleux", "url": "http://oatori.github.io" },
+  "publisher": "aseprite",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Languages"
+  ],
+  "contributes": {
+    "languages": [
+      { "id": "fr", "path": "fr.ini" }
+    ]
+  }
+}
