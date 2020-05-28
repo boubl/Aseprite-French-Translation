@@ -1,7 +1,8 @@
-# Aseprite-French-Translation
+# Aseprite-French-Translation ![icon](images/fr.gif)
 A french translation of Aseprite software.
 
-![icon](images/fr.gif)
+![preview](images/exemple.png)
+
 ## Install
 ### Method 1
 * Just download the [.aseprite-extension file](https://github.com/chamalowmoelleux/Aseprite-French-Translation/releases) and put where you want
