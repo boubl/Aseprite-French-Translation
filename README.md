@@ -1,4 +1,6 @@
-# Aseprite-French-Translation ![icon](images/fr.gif)
+# Aseprite French Translation ![icon](images/fr.gif)
+**Une traduction française du logiciel Aseprite.**
+
 A french translation of Aseprite software.
 
 ![preview](images/exemple.png)
