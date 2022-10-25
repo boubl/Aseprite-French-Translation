@@ -1,9 +1,9 @@
 {
-  "name": "Aseprite French Translation",
+  "name": "aseprite_french_translation",
   "displayName": "Aseprite French Translation",
-  "description": "Translation to french by Chamalow Moelleux",
-  "version": "1.3.2",
-  "author": { "name": "Chamalow Moelleux", "url": "https://twitter.com/realBoubli" },
+  "description": "Translation to french by Radical Boubli",
+  "version": "1.3.3",
+  "author": { "name": "Radical Boubli", "url": "https://realboubli.github.com" },
   "categories": [
     "Languages"
   ],
