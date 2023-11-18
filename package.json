@@ -9,7 +9,11 @@
   ],
   "contributes": {
     "languages": [
-      { "id": "fr", "path": "./fr.ini" }
+      {
+        "id": "fr",
+        "path": "./fr.ini",
+        "displayName": "Français"
+      }
     ]
   }
 }
