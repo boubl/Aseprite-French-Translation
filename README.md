@@ -9,6 +9,8 @@
 
 # Installation
 
-* Il suffit de télécharger le [fichier .aseprite-extension](https://github.com/realBoubli/Aseprite-French-Translation/releases) et de le mettre où vous voulez
+* Téléchargez le [fichier .aseprite-extension](https://github.com/boubl/Aseprite-French-Translation/releases)
 * Ouvrez-le fichier avec Aseprite, et il devrait vous demander si vous voulez installer l'extension (bug d'Aseprite, la fenêtre des paramètres ne doit pas être ouverte afin que la popup s'affiche).
-* Allez dans Preferences > General > Language > fr (redémarrez Aseprite pour appliquer tout les changements)
+* Allez dans Preferences > General > Language > Français
+
+> Info: Redémarrer Aseprite permet d'appliquer correctement tout les changements
