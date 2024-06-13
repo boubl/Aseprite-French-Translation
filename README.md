@@ -1,3 +1,7 @@
+> [!WARNING]  
+> Depuis la version 1.3.3, Aseprite possède des traductions incluses. Cette traduction n'est plus utile.\
+> Since version 1.3.3, Aseprite has included translations. This translation is no longer needed.
+
 <p align="center">
   <img src="images/fr.gif" />
   <br>
